@@ -5,7 +5,7 @@
 		"experience": 40,
 		"recipes": 300,
 		"likes": 1000,
-		"image": "https://example.com/chef1.jpg",
+		"image": "https://www.celebrity-direct.com/wp-content/uploads/2017/07/hire-alain-ducasse.jpg",
 		"bio": "Alain Ducasse is a French-born chef and restaurateur who has earned a total of 21 Michelin stars throughout his career, making him one of the most decorated chefs in the world. He has been recognized for his innovative cooking techniques and his use of fresh, locally-sourced ingredients.",
 		"recipeInfo": [
 			{
@@ -52,7 +52,7 @@
 		"experience": 50,
 		"recipes": 300,
 		"likes": 900,
-		"image": "https://example.com/chef2.jpg",
+		"image": "https://www.bravotv.com/sites/bravo/files/styles/blog-post-embedded--tablet/public/field_blog_image/2018/08/feast-chef-joel-robuchon.jpg?itok=mG3j1_Wy",
 		"bio": "Joël Robuchon was a French chef and restaurateur who earned a total of 32 Michelin stars throughout his career, making him one of the most acclaimed chefs in the world. He was known for his minimalist approach to cooking and his use of fresh, high-quality ingredients.",
 		"recipeInfo": [
 			{
@@ -99,7 +99,7 @@
 		"experience": 60,
 		"recipes": 500,
 		"likes": 1200,
-		"image": "https://example.com/chef3.jpg",
+		"image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/im_square_33/public/Paul-Bocuse.jpg.webp?itok=D9WKVFrW",
 		"bio": "Paul Bocuse was a French chef and restaurateur who became one of the most prominent chefs of the 20th century. He was known for his innovative approach to French cuisine, which combined traditional techniques with new and creative ideas. He was also a pioneer of nouvelle cuisine, a culinary movement that emphasized lighter, fresher ingredients and simpler preparation techniques.",
 		"recipeInfo": [
 			{
@@ -146,7 +146,7 @@
 		"experience": 45,
 		"recipes": 250,
 		"likes": 800,
-		"image": "https://example.com/chef4.jpg",
+		"image": "https://tasteandflavors.com/wp-content/uploads/2017/12/Guy-Savoy-Featured.jpg",
 		"bio": "Guy Savoy is a French chef known for his sophisticated and innovative approach to traditional French cuisine. He has received numerous awards and accolades throughout his career, including three Michelin stars for his restaurant Guy Savoy in Paris.",
 		"recipeInfo": [
 			{
@@ -195,7 +195,7 @@
 		"experience": 25,
 		"recipes": 300,
 		"likes": 700,
-		"image": "https://example.com/chef5.jpg",
+		"image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/07/de/cc/la-chef-anne-sophie-pic.jpg",
 		"bio": "Anne-Sophie Pic is a French chef who comes from a family of renowned chefs. She is the fourth generation of her family to lead the three Michelin starred restaurant, Maison Pic, in Valence, France. She is known for her use of fresh, seasonal ingredients and innovative flavor combinations.",
 		"recipeInfo": [
 			{
@@ -242,7 +242,7 @@
 		"experience": 30,
 		"recipes": 250,
 		"likes": 800,
-		"image": "https://example.com/chef6.jpg",
+		"image": "https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/JIG_sL23YsmQlp7EmI1nxpmKcmM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/TATPMJ65YD7C4UPMVM7O3SZ3WI.jpg",
 		"bio": "Yannick Alléno is a French chef who is renowned for his innovative approach to French cuisine. He is the head chef at the three-Michelin-starred restaurant, Alléno Paris au Pavillon Ledoyen, in Paris. Alléno has won numerous awards throughout his career and is considered one of the most influential chefs in the world.",
 		"recipeInfo": [
 			{
