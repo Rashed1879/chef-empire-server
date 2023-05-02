@@ -17,12 +17,8 @@ app.get('/allChef', (req, res) => {
 
 app.get('/allChef/:id', (req, res) => {
 	const id = parseInt(req.params.id);
-	if (id === 0) {
-		res.send(news);
-	} else {
-		const singleChef = allChef.find((chef) => parseInt(chef.id) === id);
-		res.send(singleChef);
-	}
+	const singleChef = allChef.find((chef) => parseInt(chef.id) === id);
+	res.send(singleChef);
 });
 
 app.listen(port, () => {
